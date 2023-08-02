@@ -1,0 +1,19 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  color: black;
+  scroll-behavior: smooth;
+  /* scroll-padding-top: 10vh; */
+}
+
+body {
+  display: block;
+  background-color: whitesmoke;
+  font-family:sans-serif;
+  min-width: 288px;
+}
+
+
